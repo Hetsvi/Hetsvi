@@ -16,10 +16,10 @@ Tech Stack - Python
 
 
 ## Skill and Expertise 🧿
-Programming languages - Python (Pandas, Numpy, Seaborn, Mathplotlib, NLTK, Ml models), SQL, Java, Javascript, R, Beginner c, Beginner ArcGIS, HTML
-Vizualisation - Tableau, Highcharts, Infogram, Canva, plotly, Basic D3.js 
-Data - Relational database architechture
-Big Data - Basic Spark, Some Dask
-Algorithms - Supervised learning(logistic, perceptron, boosting, knn, linear,) and Unsupervised learning(Random forest classifier), Graph algorithms, NLP (NLTK and Stanford Javascript library)
-Other - Some Docker, economic political analysis
+Programming languages - Python (Pandas, Numpy, Seaborn, Mathplotlib, NLTK, Ml models), SQL, Java, Javascript, R, Beginner c, Beginner ArcGIS, HTML  
+Vizualisation - Tableau, Highcharts, Infogram, Canva, plotly, Basic D3.js  
+Data - Relational database architechture  
+Big Data - Basic Spark, Some Dask  
+Algorithms - Supervised learning(logistic, perceptron, boosting, knn, linear,) and Unsupervised learning(Random forest classifier), Graph algorithms, NLP (NLTK and Stanford Javascript library)  
+Other - Some Docker, economic political analysis  
 
