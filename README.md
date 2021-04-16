@@ -3,7 +3,7 @@ I am a data scientist and data analyst with domain specialisation in political s
 
 ## Projects 💜
 
-[Preference based discrimination in traffic stops](https://www.jaredandrews99.github.io)  
+[Preference based discrimination in traffic stops](https://jaredandrews99.github.io)  
 Description - Analzing using statistical testing whether there is preference based discrimination present while law enforcement takes stops and post-stops outcomes based on driver race and law enforcement individual race for traffic stops.   
 Repo - [Preference based discrimination in traffic stops](https://github.com/Hetsvi/Preference-based-discrimination-in-traffic-stops)  
 Website - https://www.jaredandrews99.github.io  
