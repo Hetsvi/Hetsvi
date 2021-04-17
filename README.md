@@ -1,5 +1,5 @@
 # Hi! I am [Hetsvi 👩🏻‍💻](https://www.linkedin.com/in/hetsvi)
-I am a data scientist and data analyst with domain specialisation in political science: international relations. It gives me a more hollistic perspective while looking at data. Data Science is more structure and facts while poli sci:ir is to look beyond that. This gives me the tool to translate data to a more diverse audience. I enjoy giving back to the community and have been in various leadership roles at my university.
+I am a data scientist and data analyst with domain specialisation in political science: international relations. It gives me a more hollistic perspective while looking at data. Data Science is more structure and facts while poli sci:ir is to look beyond that. This gives me the tool to translate data to a more diverse audience. I enjoy giving back to the community and have been in various leadership roles at [my university](https://sixth.ucsd.edu/student-life/involvement-opportunities/student-council/index.html).
 
 ## Projects 💜
 
