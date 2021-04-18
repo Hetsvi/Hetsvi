@@ -13,14 +13,14 @@ Tech Stack - Python, Tableau, HTML, Javascript, CSS
 ##### [Candidate Placement](https://github.com/Hetsvi/dsc/blob/main/Candidate%20Placement.ipynb)  
 Description - If a candidate is enrolled in a recuritment program would they be placed and the timeframe to be placed is predicted using logistic regrssion and random forest classifier.  
 Repo - https://github.com/Hetsvi/dsc  
-Tech Stack - Python  
+Tech Stack - Python (Scikit-learn, Seaborn, Matplotlib)
 
 
 ## Skill and Expertise 🧿
-Programming languages - Python (Pandas, Numpy, Seaborn, Mathplotlib, NLTK, Ml models), SQL, Java, Javascript, R, Beginner c, Beginner ArcGIS, HTML  
-Vizualisation - Tableau, Highcharts, Infogram, Canva, plotly, Basic D3.js  
+Programming languages - Python (Pandas, Numpy, Seaborn, Matplotlib, NLTK, ML models), SQL, Java, Javascript, R, C, ArcGIS, HTML  
+Vizualisation - Tableau, Highcharts, Infogram, Canva, Plotly, D3.js  
 Data - Relational database architechture  
-Big Data - Basic Spark, Some Dask  
+Big Data - Spark, Dask  
 Algorithms - Supervised learning(logistic, perceptron, boosting, knn, linear,) and Unsupervised learning(Random forest classifier), Graph algorithms, NLP (NLTK and Stanford Javascript library)  
-Other - Some Docker, economic political analysis  
+Other - Docker, Economic political analysis  
 
