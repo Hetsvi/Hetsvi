@@ -1,5 +1,5 @@
 # Hi! I am [Hetsvi 👩🏻‍💻](https://www.linkedin.com/in/hetsvi)
-I am a data scientist and data analyst with a domain specialization in political science: international relations. This unique blend powers my holistic approach to evaluating data. Combining my passions for Data Science and International Relations, I'm able to appreciate the structure that data brings while seeing the beauty of the chaos surrounding its context. This gives me the tool to translate data to diverse audiences. Along with that, I enjoy giving back to the community and have been in various leadership roles at [my university].(https://sixth.ucsd.edu/student-life/involvement-opportunities/student-council/index.html).
+I am a data scientist and data analyst with a domain specialization in political science: international relations. This unique blend powers my holistic approach to evaluating data. Combining my passions for Data Science and International Relations, I'm able to appreciate the structure that data brings while seeing the beauty of the chaos surrounding its context. This gives me the tool to translate data to diverse audiences. Along with that, I enjoy giving back to the community and have been in various leadership roles at [my university](https://sixth.ucsd.edu/student-life/involvement-opportunities/student-council/index.html).
 
 ## Projects 💜
 
