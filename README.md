@@ -18,7 +18,7 @@ Tech Stack - Python (Scikit-learn, Seaborn, Matplotlib)
 
 ## Skill and Expertise 🧿
 Programming languages - Python (Pandas, Numpy, Seaborn, Matplotlib, NLTK, ML models), SQL, Java, Javascript, R, C, ArcGIS, HTML  
-Vizualisation - Tableau, Highcharts, Infogram, Canva, Plotly, D3.js  
+Visualization - Tableau, Highcharts, Infogram, Canva, Plotly, D3.js  
 Database - Postgres, Relational database architechture  
 Algorithms - Supervised learning(Logistic Regression, Perceptron, Boosting, KNN, Linear Regression) and Unsupervised learning(Random Forest Classifier), Graph algorithms
 Other - NLP (NLTK and Stanford Javascript library), Docker, Economic political analysis, Spark, Dask  
